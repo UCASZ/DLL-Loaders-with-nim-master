@@ -12,4 +12,4 @@ DLL Loaders文件夹中主要是各种实现加载DLL examples里面编译出来
 
 以下是一个示例：
 
-![example](https://github.com/UCASZ/DLL-Loaders-with-nim/blob/master/example.gif)
+![example](https://github.com/UCASZ/DLL-Loaders-with-nim-master/blob/master/example.gif)
